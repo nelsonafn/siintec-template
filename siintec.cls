@@ -126,7 +126,9 @@
 
 % Left footer: conference information in gray text
 \fancyfoot[L]{%
-  {\siintecaffilfont\textcolor{gray}{ISSN: 2357-7592 \\ \textit{XI INTERNATIONAL SYMPOSIUM ON INNOVATION AND TECHNOLOGY \\ Quantum Technologies: The information revolution that will change the future -- 2025}}}
+  {\siintecaffilfont\textcolor{gray}{
+    %ISSN: 2357-7592 
+    \\ \textit{XII INTERNATIONAL SYMPOSIUM ON INNOVATION AND TECHNOLOGY \\ Currents of the Future: Energy, Climate, and Global Sustainability -- 2026}}}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
